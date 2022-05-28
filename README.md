@@ -5,7 +5,7 @@
 [![My Learn](https://skillicons.dev/icons?i=vue,ts,sass,nodejs)](https://skillicons.dev)
 
 📍 My skills ✨ : <br>
-[![My Skills](https://skillicons.dev/icons?i=vue,react,js,ts,html,css,sass,nodejs,git,linux,mysql,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,vite,react,js,ts,html,css,sass,nodejs,git,linux,mysql,c,java)](https://skillicons.dev)
 
 ✉️ &nbsp;You can drop me an email at hina0320@163.com with subject containing "GitHub: ..."! It will be a pleasure to talk with you!.
 
