@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=Cedrus-P&label=PROFILE+VIEWS)\
-🌱 &nbsp;I'm on track with learning more about Vue3, TypeScript and NodeJS.
+🌱 &nbsp;I'm on track with learning more about <br>
+[![My Learn](https://skillicons.dev/icons?i=vue,ts,sass,nodejs)](https://skillicons.dev)
 
-📍 My skills ✨ : &nbsp;
+📍 My skills ✨ : <br>
 [![My Skills](https://skillicons.dev/icons?i=vue,react,js,ts,html,css,sass,nodejs,git,linux)](https://skillicons.dev)
 
 ---
